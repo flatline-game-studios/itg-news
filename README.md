@@ -14,3 +14,8 @@ A simple repository to get the patch news.
  - `zh-hant` > Chinese (Traditional)
  - `pt-br` > Portuguese (Brazil)
  - `ru-ru` > Russian
+
+
+# Imagen
+
+La imagen debe ser de 450x170.
