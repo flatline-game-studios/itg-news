@@ -1,6 +1,6 @@
 # itg-news
 
-A simple repository to get the patch news. 
+A simple repository to get the patch news v4. 
 
 
 # Codigos de localizacion
