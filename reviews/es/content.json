@@ -1,8 +1,8 @@
 ﻿{
-  "title": "Esta es una noticia",
+  "title": "Bienvenido a ITG",
   "date": "10/11/2025",
-  "body": "Una prueba de traducción",
-  "buttonText": "LEER MÁS",
+  "body": "¿Te estás divirtiendo o tenés comentarios importantes? ¡Contanos! Las reseñas en Steam nos ayudan a mejorar y perfeccionar la experiencia del juego.",
+  "buttonText": "RESEÑAR EN STEAM",
   "link": "https://www.youtube.com/watch?v=qTNmdd0B4ww",
   "image": "cover.jpg"
 }
