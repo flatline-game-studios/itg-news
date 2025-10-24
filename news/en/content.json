@@ -1,7 +1,23 @@
-﻿{
-  "title": "Version 2.0.10 is LIVE!",
-  "date": "10/11/2025",
-  "body": "The team is now fully focused on the development of the new features for the Early Access release so stay tuned to learn more in the upcoming weeks!\n\nOnce again, thank you from the bottom of our hearts for the support, it means the world to us!\n\nRemember that you can leave a review of the Demo directly on the Demo Page.",
+{
+  "title": "Pre-Release Version X.X.XX is live!",
+  "date": "October 24, 2112",
+  "body": "This is Into The Grid’s first Pre-Release version.
+\n
+\n
+Please be advised that you may encounter some missing VFX/SFX and minor bugs, none of which are blocking (fingers crossed!).
+\n
+\n
+This version includes:
+\n
+- 2 Characters (Ursa and Darwin), each with their own card pool, skills, Commands, and Drivers.
+- Tutorial mission.
+- Beginner mission (1 layer with a Layer Boss).
+- Intermediate mission (2 layers with Layer Bosses).
+- Advanced mission (3 layers with Layer Bosses + the final Core Keeper).
+\n
+\n
+We hope you enjoy it!
+",
   "buttonText": "READ MORE",
   "link": "https://store.steampowered.com/news/app/2576200/view/509587556478747756",
   "image": "cover.jpg"
