@@ -1,8 +1,8 @@
-﻿{
-  "title": "ITG에 오신 것을 환영합니다",
-  "date": "10/11/2025",
-  "body": "즐기고 계신가요? 또는 개선을 위한 피드백이 있으신가요? 알려주세요! Steam 리뷰는 게임 경험을 향상시키는 데 큰 도움이 됩니다.",
-  "buttonText": "STEAM에서 리뷰하기",
-  "link": "https://www.youtube.com/watch?v=qTNmdd0B4ww",
-  "image": "cover.jpg"
+{
+  "title": "Welcome to ITG",
+  "date": "October 29, 2112",
+  "body": "Thanks for taking part in Into The Grid’s pre-release!\n\nWe are eager to see the content you create with this version and to get your feedback.\nPlease remember that all content you create is subject to an embargo until November 10, 6PM UTC, when the game will launch.\n\nWe will continue updating the game until launch day, so please refer to the box below for more information about the current version.",
+  "buttonText": "LEAVE FEEDBACK",
+  "link": "https://tally.so/r/w5W846",
+  "image": "prereleasecoverup.png"
 }

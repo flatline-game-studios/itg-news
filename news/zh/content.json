@@ -1,8 +1,8 @@
-﻿{
-  "title": "版本 2.0.10 正式上线！",
-  "date": "10/11/2025",
-  "body": "团队现在正全力开发抢先体验版的新功能，请持续关注未来几周的更多消息！\n\n再次由衷感谢你们的支持，对我们而言意义重大！\n\n别忘了，你可以直接在试玩版页面留下评价。",
-  "buttonText": "阅读更多",
-  "link": "https://store.steampowered.com/news/app/2576200/view/509587556478747756",
-  "image": "cover.jpg"
+{
+	"title": "New version X.X.XX is live!",
+	"date": "October 29, 2112",
+	"body": "This is Into The Grid’s first Pre-Release version.\n\nPlease be advised that you may encounter some missing VFX/SFX and minor bugs, none of which are blocking (fingers crossed!).\n\nAlso remember you can access a player’s guide using the button below.\n\nThis version includes:\n- 2 Characters (Ursa and Darwin), each with their own card pool, skills, Commands, and Drivers.\n- Tutorial mission.\n- Beginner mission (1 layer with a Layer Boss).\n- Intermediate mission (2 layers with Layer Bosses).\n- Advanced mission (3 layers with Layer Bosses + the final Core Keeper).\n\nWe hope you enjoy it!",
+	"buttonText": "PLAYER'S GUIDE",
+	"link": "https://flatlinestudios.notion.site/Into-The-Grid-Pre-Release-Quick-Guide-1f9b532c099580f0b9f0fffcb3df1016",
+	"image": "lastcall.png"
 }
