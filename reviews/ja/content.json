@@ -1,8 +1,8 @@
 {
-  "title": "Welcome to ITG",
-  "date": "October 30, 2112",
-  "body": "Thanks for taking part in Into The Grid’s pre-release!\n\nWe are eager to see the content you create with this version and to get your feedback.\nPlease remember that all content you create is subject to an embargo until November 10, 6PM UTC, when the game will launch.\n\nWe will continue updating the game until launch day, so please refer to the box below for more information about the current version.",
-  "buttonText": "LEAVE FEEDBACK",
+  "title": "ITGへようこそ！",
+  "date": "30/10/2112",
+  "body": "『戦術マトリックス』早期アクセス版へのご参加ありがとうございます！\n\n皆様のコンテンツとフィードバックを心待ちにしております。\n作成された全てのコンテンツは、ゲーム公式リリース日である11月10日（月） 18:00（UTC）まで公開禁止となりますのでご注意ください。\n\n発売日までゲームのアップデートを継続しますので、現在のバージョンに関する詳細は下記からご参照ください。",
+  "buttonText": "フィードバックを送信",
   "link": "https://tally.so/r/w5W846",
   "image": "prereleasecoverup.png"
 }
