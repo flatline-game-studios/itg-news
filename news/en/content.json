@@ -1,8 +1,8 @@
 {
-	"title": "Pre-release version is live!",
-	"date": "October 30, 2112",
-	"body": "This is Into The Grid’s Pre-Release version.\n\nPlease be advised that you may encounter some missing VFX/SFX and minor bugs, none of which are blocking (fingers crossed!).\n\nAlso remember you can access a player’s guide using the button below.\n\nThis version includes:\n- 2 Characters (Ursa and Darwin), each with their own card pool, skills, Commands, and Drivers.\n- Tutorial mission.\n- Beginner mission (1 layer with a Layer Boss).\n- Intermediate mission (2 layers with Layer Bosses).\n\nWe hope you enjoy it!",
-	"buttonText": "PLAYER'S GUIDE",
-	"link": "https://flatlinestudios.notion.site/Into-The-Grid-Pre-Release-Quick-Guide-1f9b532c099580f0b9f0fffcb3df1016",
+	"title": "EARLY ACCESS v0.1.0 is live!",
+	"date": "November 10, 2112",
+	"body": "This is Into The Grid’s first Early Access version!\n\nSince it's the first one there's no patch notes, but in the future you will find those here.\n\nWe hope you enjoy the game as much as we enjoy making it!\n\n- The Flatline Team",
+	"buttonText": "VIEW ROADMAP",
+	"link": "https://store.steampowered.com/app/2576200?utm_source=mainmenu",
 	"image": "lastcall.png"
 }

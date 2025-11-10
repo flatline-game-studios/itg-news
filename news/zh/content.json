@@ -1,8 +1,8 @@
 {
-	"title": "新版本0.0.17上线啦！",
-	"date": "30/10/2112",
-	"body": "这是《深入矩阵》首个预发布版本。\n\n请注意，你可能会遇到一些特效、音效缺失或其他小问题，但这些问题都不会在根本上影响你的游戏体验（开发祈祷中！）。\n\n你还可以点击下方按钮来访问《游戏指南》。\n\n此版本包含：\n- 2个游戏角色（厄萨和达尔文），每个游戏觉得都拥有自己卡池、技能、指令和驱动。\n- 教学任务。\n- 新手任务（1层，包含层Boss）。\n- 中级任务（2层，包含层Boss）。\n\n希望你玩得开心！",
-	"buttonText": "PLAYER'S GUIDE",
-	"link": "https://flatlinestudios.notion.site/Into-The-Grid-Pre-Release-Quick-Guide-1f9b532c099580f0b9f0fffcb3df1016",
+	"title": "EARLY ACCESS v0.1.0 is live!",
+	"date": "November 10, 2112",
+	"body": "This is Into The Grid’s first Early Access version!\n\nSince it's the first one there's no patch notes, but in the future you will find those here.\n\nWe hope you enjoy the game as much as we enjoy making it!\n\n- The Flatline Team",
+	"buttonText": "VIEW ROADMAP",
+	"link": "https://store.steampowered.com/app/2576200?utm_source=mainmenu",
 	"image": "lastcall.png"
 }

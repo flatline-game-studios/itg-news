@@ -1,8 +1,8 @@
 {
-	"title": "새 버전 0.0.12 출시!",
-	"date": "30/10/2112",
-	"body": "이번은 전술 매트릭스의 첫 번째 프리릴리스 버전입니다.\n\n일부 VFX/SFX 누락이나 작은 버그가 발생할 수 있으나, 게임 진행에는 지장이 없습니다(손가락 꼬옥!).\n\n또한 아래 버튼을 통해 플레이어 가이드를 확인할 수 있습니다.\n\n이번 버전에는 다음이 포함됩니다:\n- 2명의 캐릭터 (우르사와 다운), 각각 고유의 카드 풀, 스킬, 커맨드, 드라이버 포함\n- 튜토리얼 미션.\n- 초급 미션 (1 레이어 + 레이어 보스).\n- 중급 미션 (2 레이어 + 레이어 보스).\n\n즐겁게 플레이하시길 바랍니다!",
-	"buttonText": "PLAYER'S GUIDE",
-	"link": "https://flatlinestudios.notion.site/Into-The-Grid-Pre-Release-Quick-Guide-1f9b532c099580f0b9f0fffcb3df1016",
+	"title": "EARLY ACCESS v0.1.0 is live!",
+	"date": "November 10, 2112",
+	"body": "This is Into The Grid’s first Early Access version!\n\nSince it's the first one there's no patch notes, but in the future you will find those here.\n\nWe hope you enjoy the game as much as we enjoy making it!\n\n- The Flatline Team",
+	"buttonText": "VIEW ROADMAP",
+	"link": "https://store.steampowered.com/app/2576200?utm_source=mainmenu",
 	"image": "lastcall.png"
 }

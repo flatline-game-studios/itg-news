@@ -1,8 +1,8 @@
 {
-	"title": "Ver 0.0.17 がリリースされました！",
-	"date": "30/10/2112",
-	"body": "これは『戦術マトリックス』初の早期アクセス版となります。\n\n一部のVFX/SFXが未実装であることやいささかなバグが発生する可能性がございますが、いずれも進行を妨げるものではありません。\n\nまた、下記ボタンからガイドにアクセスできます。\n\n本バージョンに含まれる内容：\n- キャラクター2名（アーサとダーウィン）。キャラクターごとにカードプール、スキル、命令、ドライバーを実装しました。\n- チュートリアルミッション\n- ビギナーミッション（1レイヤー&レイヤーボス）\n- ノーマルミッション（2レイヤー&レイヤーボス）\n\n早期アクセス、お楽しみください！",
-	"buttonText": "ガイド",
-	"link": "https://flatlinestudios.notion.site/Into-The-Grid-Pre-Release-Quick-Guide-1f9b532c099580f0b9f0fffcb3df1016",
+	"title": "EARLY ACCESS v0.1.0 is live!",
+	"date": "November 10, 2112",
+	"body": "This is Into The Grid’s first Early Access version!\n\nSince it's the first one there's no patch notes, but in the future you will find those here.\n\nWe hope you enjoy the game as much as we enjoy making it!\n\n- The Flatline Team",
+	"buttonText": "VIEW ROADMAP",
+	"link": "https://store.steampowered.com/app/2576200?utm_source=mainmenu",
 	"image": "lastcall.png"
 }
