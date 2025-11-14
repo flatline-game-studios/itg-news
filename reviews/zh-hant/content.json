@@ -1,8 +1,8 @@
 {
-  "title": "THANKS FOR JOINING THE EARLY ACCESS!",
-  "date": "November 10, 2112",
-  "body": "Welcome to Into The Grid's Early Access!\n\nWe would love to invite you to join our Discord Server!\n\nCome and share your experience with fellow players, ask questions and provide feedback in real-time with the dev team!",
-  "buttonText": "JOIN DISCORD & LEAVE FEEDBACK",
-  "link": "https://discord.gg/nBBe9gFjUM",
-  "image": "comechat.png"
+  "title": "EARLY ACCESS ROADMAP",
+  "date": "November 14, 2112",
+  "body": "Hey there! As you may expect from an Early Access game, we are actively working on improving the game.\n\nYou can use the button below to view our General Roadmap. We will be posting frequent updates both on Steam and in our Discord Server.",
+  "buttonText": "VIEW ROADMAP",
+  "link": "https://store.steampowered.com/news/app/2576200/view/806834747866087973",
+  "image": "roadmap.png"
 }
